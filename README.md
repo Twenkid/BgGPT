@@ -7,7 +7,7 @@ LLMs, tutorials, code, experiments, tests, videos
 For now hosted at: https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools/blob/main/README.md
 See the two tutorials in Youtube and the notebook in Colab:
 
-## 3 №4, №5 .. Виж главното хранилище: https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools/blob/main/README.md
+## 3 №4, №5 .. Виж главното хранилище и Ютюб канала: https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools/blob/main/README.md
 
 ## 1:
 
